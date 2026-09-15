@@ -1,0 +1,3 @@
+(Part 5: Reflection): 
+Encapsulation and generalization had helped break the drawing porccess into smaller and easier to understand parts. Encapsulation had allowed for me to put the instuctions for each shape within it's own function. I.e. Everytime I wanted to make a pumpkin within this lab, I would use the draw_pumpkin function. The same can be applied to eyes, mouth, stars, and any of the shapes.
+Generalizion had made the functions more easy to use since they can be used in different outputs. I.e. the draw_polygon() function can draw different polygons which would depend on the number of sides and the length given for the function. The draw_pumpkin function can also make pumpkins with different sizes by increasing or decreasing the radius.
